@@ -2,7 +2,7 @@ Pretty cool project - it's tic-tac-toe purely in text using lists. Compete again
 
 
 
-
+Use this link if this code is not working: https://replit.com/@25ab/TicTacToe?v=1 (Python 3.6 version)
 
 
 
